@@ -1,4 +1,4 @@
-# COMP171
+# COMP271
 Brookdale Community College Class
 
 Introduction to Java Programming, 
